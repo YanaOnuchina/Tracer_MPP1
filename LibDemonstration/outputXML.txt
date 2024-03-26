@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root id="1" time="271.5852">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="Method2_1" class="Class2" time="271.5852">
+				<methods>
+					<methodProperties name="Method1" class="Class1" time="104.7728" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+	</Methods>
+</root><?xml version="1.0" encoding="utf-16"?>
+<root id="11" time="595.3433">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="Method2_1" class="Class2" time="271.817">
+				<methods>
+					<methodProperties name="Method1" class="Class1" time="105.8482" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+		<MethodNode>
+			<methodProperties name="Method2_2" class="Class2" time="323.5263">
+				<methods>
+					<methodProperties name="Method1" class="Class1" time="108.4235" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+	</Methods>
+</root><?xml version="1.0" encoding="utf-16"?>
+<root id="12" time="377.3033">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="Method2_1" class="Class2" time="271.1266">
+				<methods>
+					<methodProperties name="Method1" class="Class1" time="105.546" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+		<MethodNode>
+			<methodProperties name="Method1" class="Class1" time="106.1767" />
+		</MethodNode>
+	</Methods>
+</root>

@@ -1,0 +1,92 @@
+{
+  "Id": 1,
+  "Time": 271.5852,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "Method2_1",
+        "ClassName": "Class2",
+        "Time": 271.5852,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "Method1",
+              "ClassName": "Class1",
+              "Time": 104.7728,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+}{
+  "Id": 11,
+  "Time": 595.3433,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "Method2_1",
+        "ClassName": "Class2",
+        "Time": 271.817,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "Method1",
+              "ClassName": "Class1",
+              "Time": 105.8482,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "Method2_2",
+        "ClassName": "Class2",
+        "Time": 323.5263,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "Method1",
+              "ClassName": "Class1",
+              "Time": 108.4235,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+}{
+  "Id": 12,
+  "Time": 377.3033,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "Method2_1",
+        "ClassName": "Class2",
+        "Time": 271.1266,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "Method1",
+              "ClassName": "Class1",
+              "Time": 105.546,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "Method1",
+        "ClassName": "Class1",
+        "Time": 106.1767,
+        "methods": []
+      }
+    }
+  ]
+}
